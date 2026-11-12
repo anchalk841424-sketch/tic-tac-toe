@@ -2,6 +2,9 @@
 
 A two-player Tic Tac Toe game built with **Python** and **Streamlit**, featuring animated backgrounds, a welcome curtain animation, and an interactive result popup.
 
+## 🌐 Live Demo
+https://tic-tac-toe-arena.streamlit.app/
+
 ## ✨ Features
 
 - 🎯 Two-player game (X vs O)
@@ -39,6 +42,3 @@ A two-player Tic Tac Toe game built with **Python** and **Streamlit**, featuring
 3. The first player to get 3 in a row (horizontal, vertical or diagonal) wins.
 4. If all cells fill up with no winner, the game is a draw.
 
-## 🌐 Live Demo
-
-Add your Streamlit app link here after deployment.
